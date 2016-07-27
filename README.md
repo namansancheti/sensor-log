@@ -10,6 +10,10 @@ An Android Application which "Logs" the readings from various Sensors at a parti
 - For creating the ".csv" file, the "OpenCSV" library was used. It can be found here :-
 http://sourceforge.net/projects/opencsv/
 
+- The .apk file for the Project can be found in "/app/build/outputs/apk/app-debug.apk".
+
+- The application supports all Android devices running Android version "4.0.3" i.e. "Ice Cream Sandwich" or higher.
+
 ## Sensors Covered :-
 - Accelerometer
 - Gyroscope
