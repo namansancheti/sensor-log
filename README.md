@@ -13,7 +13,7 @@ Android Application - logs readings from various sensors at a user-specified 'Sa
 
 - The application supports all Android devices running Android version >= `4.0.3` i.e. `Ice Cream Sandwich` or higher.
 
-## Sensors Covered :-
+## Sensors Covered
 - Accelerometer
 - Gyroscope
 - Magnetometer
