@@ -1,7 +1,7 @@
 # Sensor Log
 Android Application - logs readings from various sensors at a user-specified 'Sampling Rate'.
 
-- The Sampling Rate specified by the user in seconds. As the Android SDK does NOT support custom sampling rate for sensors, thus the required values were filtered out by keeping track of the time difference.
+- The Sampling Rate specified by the user in **seconds**. As the Android SDK does NOT support custom sampling rate for sensors, thus the required values were filtered out by keeping track of the time difference.
 
 - The output file is in the `.csv` format and can be found in the `sdcard` of your device with the name `sensorlog.csv`
 
